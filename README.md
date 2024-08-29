@@ -1,1 +1,7 @@
 # athletic_sales_analysis
+
+Key Takeaways:
+- In general (across 2020 and 2021 and for all products), the top two cities for total products sold were New York, NY (111954 products sold) and the Houston, TX (90322 products sold). The top two cities for total sales were New York, NY ($39,801,235 in total sales) and the San Francisco, CA ($33,973,228 in total sales). This indicates that although total products sold were higher in Houston than in San Francisco (which was third in total products sold), that the products sold in San Francisco must have been higher priced or of higher price.
+- Across all the retailers, West Gear had the highest total sales, as well as the highest total unites sold for Women's Athletic Footwear.
+- For Women's Athletic Footwear (across all retailers), the day with the highest total sales was 1/4/2020, followed by 1/5/2020. In fact, the top 8 highest sales dates were all in January of 2020, with the 9th and 10th highest being in early February (2/3/2020 and 2/4/2020).
+- For Women's Athletic Footwear (across all retailers), the top two highest weeks in terms of total sales were the weeks of 12/19/2021 and 12/12/2021. This could be due to proximity to the holidays, when people are shopping for holiday gifts.
